@@ -1,2 +1,7 @@
 # localmodel_Agent
 搭建的本地模型，但是受本地电脑配置影响，RAG本地知识库上传文件偏小，功能可以正常使用，并且可以链接互联网进行学习
+## 🎬 项目演示视频
+
+
+https://github.com/user-attachments/assets/dd95d1b0-9155-4351-9909-c571f76b6272
+
